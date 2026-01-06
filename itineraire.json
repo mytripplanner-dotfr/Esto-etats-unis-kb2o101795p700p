@@ -1,0 +1,440 @@
+{
+  "pays": "États-Unis",
+  "drapeau": "🇺🇸",
+  "symbole": "🗽",
+  "titre": "Douce Évasion Hivernale à Boston",
+  "budget_total": "Environ 2882 €/personne",
+  "duree": "13 jours",
+  "date_debut": "2026-01-25",
+  "date_fin": "2026-02-06",
+  "temps_vol": "Environ 10h (avec escale, depuis San José del Cabo)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas à Boston",
+      "legende": "Après un long voyage, installez-vous confortablement et profitez d'une première soirée tranquille. Une courte balade autour de votre hôtel vous permettra de prendre vos marques dans cette ville historique.",
+      "lieu": "Boston",
+      "activites": [
+        "<strong>🛬 Arrivée à Boston Logan (BOS)</strong>: Atterrissage à l'aéroport de Boston, récupération des bagages et transfert vers votre hébergement.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Enregistrement et détente après le vol. Prenez le temps de vous rafraîchir et de vous reposer.",
+        "<strong>🚶‍♂️ Balade douce dans le quartier de l'hôtel</strong>: Une promenade légère pour découvrir les environs immédiats et trouver un restaurant pour le dîner."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le trajet depuis San José del Cabo est long. Prévoyez une journée d'arrivée légère pour éviter la fatigue."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "📜",
+      "titre": "Sur les Traces de l'Histoire Américaine",
+      "legende": "Plongez au cœur de l'histoire américaine en suivant le célèbre Freedom Trail. Découvrez des sites emblématiques et imprégnez-vous de l'atmosphère unique de Boston, berceau de la Révolution.",
+      "lieu": "Boston",
+      "activites": [
+        "<strong>🚶‍♀️ Découverte du Freedom Trail (partie sud)</strong>: Parcourez une section du chemin de briques rouges, visitant le Boston Common, la State House et le Granary Burying Ground.",
+        "<strong>🌳 Promenade au Boston Common et Public Garden</strong>: Profitez d'une balade relaxante dans les plus anciens parcs publics des États-Unis, même en hiver, pour admirer les paysages enneigés.",
+        "<strong>🛍️ Déjeuner et exploration à Quincy Market</strong>: Savourez un repas décontracté dans ce marché historique animé, puis flânez parmi les boutiques et les artistes de rue."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Boston Common, Boston",
+          "categorie": "Parc",
+          "coords": { "lat": 42.3552, "lng": -71.0656 }
+        },
+        {
+          "nom_recherche": "Quincy Market, Boston",
+          "categorie": "Marché",
+          "coords": { "lat": 42.3601, "lng": -71.0561 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶",
+          "titre": "Conseil",
+          "texte": "Portez des chaussures confortables et chaudes pour la marche, car le Freedom Trail est long et les rues peuvent être glissantes en hiver."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🎨",
+      "titre": "Art, Architecture et Sérénité",
+      "legende": "Laissez-vous charmer par l'élégance architecturale de Boston et la richesse de ses collections d'art. Une journée dédiée à la culture et à la contemplation, loin de l'agitation urbaine.",
+      "lieu": "Boston",
+      "activites": [
+        "<strong>🖼️ Visite du Isabella Stewart Gardner Museum</strong>: Explorez ce palais vénitien unique abritant une collection d'art éclectique dans une atmosphère intime et paisible.",
+        "<strong>📚 Découverte de la Boston Public Library</strong>: Admirez l'architecture grandiose de cette bibliothèque historique, notamment la Bates Hall et la Cour intérieure.",
+        "<strong>☕ Pause détente dans un café de Back Bay</strong>: Réchauffez-vous avec une boisson chaude et une pâtisserie dans l'un des nombreux cafés cosy du quartier chic de Back Bay."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Isabella Stewart Gardner Museum, Boston",
+          "categorie": "Musée",
+          "coords": { "lat": 42.3398, "lng": -71.0942 }
+        },
+        {
+          "nom_recherche": "Boston Public Library, Boston",
+          "categorie": "Bibliothèque",
+          "coords": { "lat": 42.3493, "lng": -71.0772 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Le Isabella Stewart Gardner Museum est un havre de paix, idéal pour une activité relaxante. Réservez vos billets à l'avance."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌊",
+      "titre": "Vie Marine et Histoire Maritime",
+      "legende": "Explorez les profondeurs de l'océan et revivez un événement clé de l'histoire américaine le long du front de mer de Boston. Une journée entre émerveillement et immersion historique.",
+      "lieu": "Boston",
+      "activites": [
+        "<strong>🐠 Visite du New England Aquarium</strong>: Plongez dans le monde marin avec des milliers d'espèces aquatiques, dont un immense réservoir océanique central.",
+        "<strong>🚶‍♂️ Balade le long du Harborwalk</strong>: Profitez d'une promenade tranquille le long du port, offrant des vues sur l'océan et les bateaux.",
+        "<strong>🚢 Immersion au Boston Tea Party Ships & Museum</strong>: Revivez l'événement historique du Boston Tea Party grâce à des reconstitutions interactives et des navires d'époque."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "New England Aquarium, Boston",
+          "categorie": "Aquarium",
+          "coords": { "lat": 42.3592, "lng": -71.0507 }
+        },
+        {
+          "nom_recherche": "Boston Tea Party Ships & Museum, Boston",
+          "categorie": "Musée",
+          "coords": { "lat": 42.3514, "lng": -71.0506 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "👨‍👩‍👧‍👦",
+          "titre": "Activité familiale",
+          "texte": "L'Aquarium est une excellente activité pour tous les âges, offrant un spectacle fascinant de la vie marine."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🎓",
+      "titre": "Charme Intellectuel de Cambridge",
+      "legende": "Traversez la Charles River pour découvrir Cambridge, une ville vibrante d'intellectualité et de charme. Flânez sur le campus de Harvard et explorez ses musées fascinants.",
+      "lieu": "Cambridge",
+      "activites": [
+        "<strong>🚶‍♀️ Promenade sur le campus de Harvard University</strong>: Explorez les magnifiques cours et bâtiments historiques de l'une des universités les plus prestigieuses du monde.",
+        "<strong>🏛️ Visite du Harvard Museum of Natural History</strong>: Découvrez des collections impressionnantes, des dinosaures aux minéraux, dans un cadre éducatif et apaisant.",
+        "<strong>🛍️ Exploration de Harvard Square</strong>: Profitez de l'ambiance bohème de cette place animée, avec ses librairies, ses cafés et ses boutiques uniques."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Harvard University, Cambridge",
+          "categorie": "Université",
+          "coords": { "lat": 42.3770, "lng": -71.1167 }
+        },
+        {
+          "nom_recherche": "Harvard Museum of Natural History, Cambridge",
+          "categorie": "Musée",
+          "coords": { "lat": 42.3797, "lng": -71.1147 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport",
+          "texte": "Cambridge est facilement accessible depuis Boston en métro (ligne rouge de la MBTA)."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🏘️",
+      "titre": "Élégance de Beacon Hill et Vues Panoramiques",
+      "legende": "Découvrez le quartier pittoresque de Beacon Hill, avec ses rues pavées et ses maisons en briques rouges. Terminez la journée avec une vue imprenable sur la ville depuis un point d'observation.",
+      "lieu": "Boston",
+      "activites": [
+        "<strong>🚶‍♂️ Flânerie dans Beacon Hill</strong>: Perdez-vous dans les charmantes rues d'Acorn Street et Louisburg Square, admirant l'architecture historique et l'ambiance sereine.",
+        "<strong>🛍️ Shopping et galeries sur Charles Street</strong>: Explorez les boutiques d'antiquités, les galeries d'art et les cafés élégants de cette rue emblématique.",
+        "<strong>🌇 Vue panoramique depuis le Prudential Center Skywalk</strong>: Admirez Boston à 360 degrés depuis le sommet du Prudential Tower, offrant un spectacle magnifique au coucher du soleil."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Beacon Hill, Boston",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 42.3588, "lng": -71.0661 }
+        },
+        {
+          "nom_recherche": "Prudential Center Skywalk, Boston",
+          "categorie": "Point de vue",
+          "coords": { "lat": 42.3472, "lng": -71.0822 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Acorn Street est l'une des rues les plus photographiées de Boston. Idéal pour de belles photos souvenirs."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🧙‍♀️",
+      "titre": "Escapade Mystérieuse à Salem",
+      "legende": "Évadez-vous pour une journée à Salem, la ville des sorcières, pour une immersion dans son histoire fascinante et ses musées intrigants. Une expérience culturelle unique et relaxante.",
+      "lieu": "Salem",
+      "activites": [
+        "<strong>🚆 Trajet en train vers Salem</strong>: Profitez d'un voyage pittoresque en train le long de la côte jusqu'à la ville historique de Salem.",
+        "<strong>🖼️ Visite du Peabody Essex Museum</strong>: Explorez l'un des plus anciens et des plus dynamiques musées des États-Unis, avec des collections d'art et de culture du monde entier.",
+        "<strong>🚶‍♀️ Balade dans le quartier historique de Salem</strong>: Découvrez les rues charmantes, les maisons coloniales et l'ambiance particulière de cette ville chargée d'histoire."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Peabody Essex Museum, Salem",
+          "categorie": "Musée",
+          "coords": { "lat": 42.5218, "lng": -70.8937 }
+        },
+        {
+          "nom_recherche": "Salem Witch Museum, Salem",
+          "categorie": "Musée",
+          "coords": { "lat": 42.5204, "lng": -70.8959 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🚂",
+          "titre": "Transport",
+          "texte": "Le train de banlieue (Commuter Rail) depuis la gare de North Station à Boston est le moyen le plus simple et relaxant de se rendre à Salem."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🍝",
+      "titre": "Saveurs Italiennes et Histoire du North End",
+      "legende": "Plongez dans l'ambiance vibrante du North End, le quartier italien de Boston. Dégustez des spécialités culinaires et explorez des sites historiques majeurs de la Révolution.",
+      "lieu": "Boston",
+      "activites": [
+        "<strong>🚶‍♂️ Exploration du North End (Little Italy)</strong>: Flânez dans les rues étroites, imprégnez-vous des odeurs de cuisine italienne et découvrez les petites boutiques.",
+        "<strong>🏠 Visite de la Paul Revere House</strong>: Découvrez la plus ancienne maison du centre-ville de Boston, demeure du célèbre patriote Paul Revere.",
+        "<strong>⛪ Découverte de l'Old North Church</strong>: Visitez cette église historique, célèbre pour avoir signalé l'arrivée des Britanniques par des lanternes, déclenchant la chevauchée de Revere."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "North End, Boston",
+          "categorie": "Quartier",
+          "coords": { "lat": 42.3643, "lng": -71.0543 }
+        },
+        {
+          "nom_recherche": "Paul Revere House, Boston",
+          "categorie": "Maison historique",
+          "coords": { "lat": 42.3636, "lng": -71.0544 }
+        },
+        {
+          "nom_recherche": "Old North Church, Boston",
+          "categorie": "Église",
+          "coords": { "lat": 42.3660, "lng": -71.0543 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🍰",
+          "titre": "Gourmandise",
+          "texte": "Ne manquez pas de goûter un cannoli dans l'une des célèbres pâtisseries du North End, comme Mike's Pastry ou Modern Pastry."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🏛️",
+      "titre": "Culture et Détente au Museum of Fine Arts",
+      "legende": "Passez une journée enrichissante au Museum of Fine Arts, l'un des plus grands musées des États-Unis. Laissez-vous transporter par ses vastes collections d'art du monde entier.",
+      "lieu": "Boston",
+      "activites": [
+        "<strong>🖼️ Visite approfondie du Museum of Fine Arts (MFA)</strong>: Explorez les galeries dédiées à l'art égyptien, aux impressionnistes, à l'art américain et bien plus encore.",
+        "<strong>🚶‍♀️ Promenade relaxante dans les jardins du musée (si le temps le permet)</strong>: Profitez des espaces extérieurs du MFA pour une bouffée d'air frais et un moment de calme.",
+        "<strong>☕ Pause café et lecture au sein du MFA</strong>: Détendez-vous dans l'un des cafés du musée, en admirant l'architecture et l'ambiance culturelle."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Museum of Fine Arts, Boston",
+          "categorie": "Musée",
+          "coords": { "lat": 42.3394, "lng": -71.0941 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "⏳",
+          "titre": "Temps de visite",
+          "texte": "Le MFA est immense. Prévoyez au moins une demi-journée, voire une journée entière, pour apprécier ses collections sans se presser."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🌿",
+      "titre": "Nature Urbaine et Sérénité",
+      "legende": "Échappez à l'agitation de la ville pour une journée dédiée à la nature et à la tranquillité. Profitez d'une balade apaisante dans un des poumons verts de Boston.",
+      "lieu": "Boston",
+      "activites": [
+        "<strong>🌳 Balade à l'Arnold Arboretum of Harvard University</strong>: Découvrez cette magnifique collection d'arbres et de plantes, idéale pour une promenade hivernale douce et revigorante.",
+        "<strong>📚 Détente à la Bibliothèque John F. Kennedy Presidential Library and Museum</strong>: Explorez l'histoire du président Kennedy dans un cadre architectural impressionnant, avec des vues sur l'océan.",
+        "<strong>🌅 Coucher de soleil sur la Charles River Esplanade</strong>: Profitez d'une vue imprenable sur la rivière Charles et le skyline de Boston au crépuscule, un moment de pure quiétude."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Arnold Arboretum of Harvard University, Boston",
+          "categorie": "Arboretum",
+          "coords": { "lat": 42.2989, "lng": -71.1166 }
+        },
+        {
+          "nom_recherche": "John F. Kennedy Presidential Library and Museum, Boston",
+          "categorie": "Musée",
+          "coords": { "lat": 42.3150, "lng": -71.0350 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "❄️",
+          "titre": "Météo",
+          "texte": "En hiver, l'Arboretum offre un paysage différent mais tout aussi beau. Vérifiez les conditions des sentiers avant de vous y rendre."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🛍️",
+      "titre": "Derniers Souvenirs et Douceurs Locales",
+      "legende": "Profitez de cette avant-dernière journée pour quelques achats de souvenirs et pour savourer une dernière fois les délices culinaires de Boston. Une journée pour se faire plaisir et se détendre.",
+      "lieu": "Boston",
+      "activites": [
+        "<strong>🎁 Shopping de souvenirs sur Newbury Street</strong>: Flânez dans cette rue élégante de Back Bay, connue pour ses boutiques de créateurs, ses galeries d'art et ses cafés charmants.",
+        "<strong>🍰 Dégustation de Boston Cream Pie</strong>: Offrez-vous une part de ce dessert emblématique de la ville dans une pâtisserie locale.",
+        "<strong>🍽️ Dîner d'adieu dans un restaurant typique</strong>: Savourez un dernier repas mémorable, peut-être avec une spécialité de fruits de mer de la Nouvelle-Angleterre."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Newbury Street, Boston",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 42.3508, "lng": -71.0768 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🦞",
+          "titre": "Cuisine",
+          "texte": "Pour votre dîner d'adieu, pensez à un restaurant proposant du homard frais ou une \"Clam Chowder\" crémeuse."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "✈️",
+      "titre": "Préparation au Départ",
+      "legende": "Une journée de transition pour finaliser vos préparatifs de départ. Profitez d'un dernier moment de calme avant de vous envoler vers de nouvelles aventures.",
+      "lieu": "Boston",
+      "activites": [
+        "<strong>☕ Petit-déjeuner tranquille</strong>: Savourez un dernier petit-déjeuner américain à votre rythme.",
+        "<strong>📦 Préparation des bagages et derniers achats</strong>: Organisez vos souvenirs et vérifiez que tout est prêt pour le départ.",
+        "<strong>🚶‍♀️ Dernière balade dans un quartier apprécié</strong>: Profitez d'une courte promenade dans votre quartier préféré pour un dernier au revoir à Boston."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Conseil",
+          "texte": "Vérifiez l'heure de votre vol et prévoyez suffisamment de temps pour le transfert vers l'aéroport et les formalités d'embarquement."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "👋",
+      "titre": "Départ de Boston",
+      "legende": "C'est le moment de dire au revoir à Boston. Avec des souvenirs plein la tête, vous prendrez votre vol retour, la tête déjà pleine de projets pour votre prochaine évasion.",
+      "lieu": "Boston",
+      "activites": [
+        "<strong>🚖 Transfert vers l'aéroport Logan (BOS)</strong>: Départ de l'hôtel pour l'aéroport.",
+        "<strong>✈️ Enregistrement et vol retour</strong>: Formalités d'embarquement et envol vers votre destination."
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "🛂",
+          "titre": "Formalités",
+          "texte": "Arrivez à l'aéroport au moins 3 heures avant votre vol international pour les contrôles de sécurité et de douane."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "432 €/pers (A/R depuis San José del Cabo)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 100 €/pers (pass MBTA, train Salem)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 850 €/pers (12 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 1200 €/pers (12 nuits, hôtel 3* budget)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 300 €/pers (musées, tours)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Mai)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En Janvier-Février, les températures à Boston varient entre -6°C et 4°C. Prévoir des vêtements très chauds, des couches superposées, un bon manteau, bonnet, gants et chaussures imperméables.", "symbole": "❄️" },
+    { "titre": "La monnaie est le Dollar Américain (USD). Les cartes de crédit sont largement acceptées. Prévoir un peu de liquide pour les petits commerces ou pourboires.", "symbole": "💳" },
+    { "titre": "Le réseau de transport public (MBTA, \"The T\") est efficace pour se déplacer dans Boston et Cambridge. Un pass hebdomadaire peut être avantageux. Pour Salem, le train est recommandé.", "symbole": "🚇" },
+    { "titre": "Une carte SIM locale ou eSIM est recommandée pour la connectivité (T-Mobile, AT&T, Verizon). Le Wi-Fi est disponible dans la plupart des hébergements et lieux publics.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "La Boston Tea Party de 1773 n'était pas une simple manifestation. C'était un acte de vandalisme audacieux où des colons déguisés en Amérindiens ont jeté des tonnes de thé à la mer, un événement clé qui a enflammé la Révolution Américaine."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "En 1919, Boston a été frappée par la \"Grande Inondation de Mélasse\". Un réservoir géant de mélasse a éclaté dans le North End, libérant une vague de 25 pieds de haut qui a tué 21 personnes et blessé 150 autres. L'odeur de mélasse a persisté pendant des décennies !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🥣",
+      "titre": "New England Clam Chowder",
+      "description": "Une soupe crémeuse et épaisse à base de palourdes, de pommes de terre, d'oignons et de lardons. Un classique réconfortant, parfait pour les journées froides."
+    },
+    {
+      "symbole": "🦞",
+      "titre": "Lobster Roll",
+      "description": "Un sandwich garni de chair de homard fraîchement pêché, souvent mélangée à de la mayonnaise ou du beurre fondu, servi dans un pain brioché grillé. Un délice de la Nouvelle-Angleterre."
+    },
+    {
+      "symbole": "🍰",
+      "titre": "Boston Cream Pie",
+      "description": "Malgré son nom, c'est un gâteau ! Composé de deux couches de génoise, d'une crème pâtissière onctueuse au milieu et recouvert d'un glaçage au chocolat. Le dessert officiel du Massachusetts."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/SJD-BOS/2026-01-25/2026-02-06", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Boston", "url": "https://www.bostonusa.com/", "symbole": "📘" },
+    { "legende": "Transports en commun Boston", "titre": "MBTA (The T)", "url": "https://www.mbta.com/", "symbole": "🚇" },
+    { "legende": "Météo", "titre": "Météo Boston", "url": "https://www.weather.com/weather/today/l/USMA0046:1:US", "symbole": "🌤️" }
+  ]
+}
